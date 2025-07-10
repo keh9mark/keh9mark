@@ -6,4 +6,4 @@ All my personal work is free and open, even for strangers, to use as they please
 
 Now then, be one your way traveler!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,js,py,vue,ubuntu,postgres,vscode)](https://skillicons.dev)
